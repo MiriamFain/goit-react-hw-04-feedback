@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+}
+
+.item {
+  font-size: 14px;
+  align-item: center;
+  display: flex;
+  justify-content: center;
+  padding: 30px 10px;
+  width: 120px;
+}
+
+.quant {
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.proc {
+  margin-bottom: 50px;
+}
